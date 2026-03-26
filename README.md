@@ -8,6 +8,7 @@
 | [0056-merge-intervals](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0493-reverse-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0493-reverse-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
