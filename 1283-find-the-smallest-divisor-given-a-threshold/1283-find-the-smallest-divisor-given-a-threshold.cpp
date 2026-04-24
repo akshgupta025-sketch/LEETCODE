@@ -18,11 +18,11 @@ return s;
                 high = nums[i];
             }
         }
-        while(low<=high){
+        while(low<high){
             ll mid = (low+high)/2;
             ll result = divi(nums,n,mid);
             if(result<=threshold){
-             high = mid-1;
+             high = mid;
             }else{
                 low = mid+1;
             }
