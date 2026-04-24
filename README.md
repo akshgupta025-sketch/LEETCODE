@@ -81,4 +81,12 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0152-maximum-product-subarray) |
+## String
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2833-furthest-point-from-origin) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
