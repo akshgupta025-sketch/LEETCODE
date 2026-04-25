@@ -2,31 +2,40 @@ class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
         int n = nums.size();
-        sort(nums.begin(),nums.end());
-        set<vector<int>>st;
-        vector<vector<int>>ans;
-        for(int i =0;i<n-3;i++){
-            for(int j=i+1;j<n-2;j++){
-                long long newtarget = 1LL*target-nums[i]-nums[j];
-                int low = j+1;
-                int high = n-1;
-                while(low<high){
-                    long long sum = 1LL*nums[low]+nums[high];
-                    if(sum<newtarget){
-                        low++;
+        sort(nums.begin(), nums.end());
+        vector<vector<int>> ans;
+
+        for(int i = 0; i < n - 3; i++) {
+            if(i > 0 && nums[i] == nums[i-1]) continue;   
+
+            for(int j = i + 1; j < n - 2; j++) {
+                if(j > i + 1 && nums[j] == nums[j-1]) continue; 
+
+                long long newTarget = (long long)target - nums[i] - nums[j];
+
+                int k = j + 1;
+                int p = n - 1;
+
+                while(k < p) {
+                    long long sum = (long long)nums[k] + nums[p];
+
+                    if(sum < newTarget) {
+                        k++;
                     }
-                    else if(sum>newtarget){
-                        high--;
-                    } else{
-                        st.insert({nums[i],nums[j],nums[low],nums[high]});
-                        low++;
-                        high--;
+                    else if(sum > newTarget) {
+                        p--;
+                    }
+                    else {
+                        ans.push_back({nums[i], nums[j], nums[k], nums[p]});
+                        k++;
+                        p--;
+
+                        while(k < p && nums[k] == nums[k-1]) k++;
+
+                        while(k < p && nums[p] == nums[p+1]) p--;
                     }
                 }
             }
-        }
-        for(auto it:st){
-            ans.push_back(it);
         }
         return ans;
     }
