@@ -104,6 +104,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [2833-furthest-point-from-origin](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2833-furthest-point-from-origin) |
+| [3110-score-of-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3110-score-of-a-string) |
 ## Counting
 |  |
 | ------- |
