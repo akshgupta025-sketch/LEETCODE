@@ -105,6 +105,7 @@
 | [0008-string-to-integer-atoi](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [2833-furthest-point-from-origin](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2833-furthest-point-from-origin) |
 | [3110-score-of-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3110-score-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Counting
 |  |
 | ------- |
@@ -121,4 +122,8 @@
 |  |
 | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+## Hash Table
+|  |
+| ------- |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
 <!---LeetCode Topics End-->
