@@ -40,6 +40,7 @@
 | [0018-4sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [3794-reverse-string-prefix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0008-string-to-integer-atoi) |
+| [0151-reverse-words-in-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0709-to-lower-case](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1108-defanging-an-ip-address) |
