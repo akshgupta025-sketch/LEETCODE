@@ -51,6 +51,7 @@
 | [0056-merge-intervals](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0242-valid-anagram) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Prefix Sum
@@ -116,6 +117,7 @@
 | [0014-longest-common-prefix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0242-valid-anagram) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 |  |
