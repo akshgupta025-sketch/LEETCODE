@@ -115,6 +115,7 @@
 | [0008-string-to-integer-atoi](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0709-to-lower-case](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1108-defanging-an-ip-address) |
@@ -147,6 +148,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 |  |
