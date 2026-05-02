@@ -2,11 +2,12 @@ class Solution {
 public:
     bool isIsomorphic(string s, string t) {
         int x = s.size();
+        int a1[256]={0};
+        int a2[256]={0};
      for (int i=0;i<x;i++){
-        for(int j=i+1;j<x;j++){
-            if(s[i]==s[j] && t[i]!=t[j])return false;
-            if(t[i]==t[j] && s[i]!=s[j])return false;
-        }
+        if(a1[s[i]]!=a2[t[i]]) return false;
+        a1[s[i]]=i+1;
+        a2[t[i]]=i+1;
      }
         return true;
     }
