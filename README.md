@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -146,6 +147,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0048-rotate-image) |
 | [1903-largest-odd-number-in-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -160,6 +162,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0205-isomorphic-strings](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
