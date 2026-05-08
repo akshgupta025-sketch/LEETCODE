@@ -196,4 +196,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
