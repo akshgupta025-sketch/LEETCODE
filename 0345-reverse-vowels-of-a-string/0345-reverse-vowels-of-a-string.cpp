@@ -6,13 +6,21 @@ bool isvowel(char a){
 }
     string reverseVowels(string s) {
         int n = s.size();
-        vector<char>p;
-        for(int i=0;i<n;i++){
-            if(isvowel(s[i])) p.push_back(s[i]);
-        }
-        int j = p.size()-1;
-        for(int i=0;i<n;i++){
-            if(isvowel(s[i]))s[i]=p[j--];
+        int i = 0;
+        int j = n-1;
+        while(i<j){
+            if(isvowel(s[i]) && isvowel(s[j])){
+                swap(s[i],s[j]);
+                i++;
+                j--;
+            }else if(isvowel(s[i]) && !isvowel(s[j])){
+                j--;
+            }else if(!isvowel(s[i]) && isvowel(s[j])){
+                i++;
+            } else {
+                i++;
+                j--;
+            }
         }
         return s;
     }
