@@ -44,6 +44,7 @@
 | [0075-sort-colors](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
@@ -122,6 +123,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0709-to-lower-case) |
