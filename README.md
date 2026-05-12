@@ -49,6 +49,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0541-reverse-string-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [3794-reverse-string-prefix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
@@ -212,6 +213,7 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
 | ------- |
