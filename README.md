@@ -212,6 +212,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
@@ -219,4 +220,8 @@
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
