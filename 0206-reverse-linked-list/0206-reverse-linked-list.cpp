@@ -10,6 +10,16 @@
  */
 class Solution {
 public:
+  ListNode* recursive(ListNode*head){
+    if(head==NULL||head->next==NULL){
+        return head;
+    }
+    ListNode* newhead = recursive(head->next);
+    ListNode* front = head->next;
+    front->next = head;
+    head->next = NULL;
+    return newhead;
+  }
     ListNode* reverseList(ListNode* head) {
         if(head==NULL){
             return head;
@@ -28,14 +38,16 @@ public:
         // }
         // return head;
         // OPTIMAL METHOD : REVERSING NEXT NODE AND MOVING HEAD
-        ListNode* prev = NULL;
-        ListNode* temp = head;
-        while(temp!=NULL){
-            ListNode* front = temp->next;
-            temp->next = prev;
-            prev = temp;
-            temp = front;
-        }
-        return prev; 
+        // ListNode* prev = NULL;
+        // ListNode* temp = head;
+        // while(temp!=NULL){
+        //     ListNode* front = temp->next;
+        //     temp->next = prev;
+        //     prev = temp;
+        //     temp = front;  REVERSING THE NEXT AND USING PREV AS NEW HEAD
+        // }
+        // return prev; 
+        // RECURSIVE WAY
+        return recursive(head);
     }
 };
