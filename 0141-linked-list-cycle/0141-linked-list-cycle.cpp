@@ -12,9 +12,6 @@ public:
         ListNode* temp = head;
         unordered_map<ListNode*,int>mp;
         while(temp){
-            if(temp->next ==NULL){
-                return false;
-            }
             if(mp.find(temp)!=mp.end()){
                 return true;
             }else{
