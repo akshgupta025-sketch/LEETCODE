@@ -10,22 +10,50 @@
  */
 class Solution {
 public:
+ListNode* reverse(ListNode* head){
+   if(head==NULL||head->next==NULL){
+    return head;
+   }
+    ListNode* newhead = reverse(head->next);
+    ListNode* front = head->next;
+    front->next = head;
+    head->next = NULL;
+    return newhead;
+}
     bool isPalindrome(ListNode* head) {
-        ListNode* temp = head;
-        stack<int>st;
-        while(temp){
-            st.push(temp->val);
-            temp=temp->next;
+        // ListNode* temp = head;
+        // stack<int>st;
+        // while(temp){
+        //     st.push(temp->val);
+        //     temp=temp->next;
+        // }
+        // temp = head;  NORMLA BRUTE FORCE STORE IN STCAK THEN CHECK
+        // while(temp){
+        //     if(temp->val!=st.top()){
+        //         return false;
+        //     }else{
+        //         st.pop();
+        //         temp=temp->next;
+        //     }
+        // }
+        // return true;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while(fast!=NULL && fast->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
         }
-        temp = head;
-        while(temp){
-            if(temp->val!=st.top()){
+        ListNode* prev = reverse(slow);
+         ListNode* temp = head;
+         ListNode* sec = prev;
+         while(sec!=NULL){
+            if(temp->val!=sec->val){
                 return false;
             }else{
-                st.pop();
                 temp=temp->next;
+                sec=sec->next;
             }
-        }
-        return true;
+         }
+         return true;
     }
 };
