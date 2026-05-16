@@ -11,6 +11,9 @@
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
+        if(head==NULL||head->next==NULL){
+            return head;
+        }
         vector<int>a;
         ListNode* temp = head;
         while(temp){
