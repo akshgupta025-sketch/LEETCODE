@@ -52,6 +52,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0541-reverse-string-ii) |
@@ -191,6 +192,7 @@
 | [0012-integer-to-roman](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
@@ -230,6 +232,7 @@
 | [0141-linked-list-cycle](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
