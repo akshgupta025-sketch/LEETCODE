@@ -38,6 +38,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2540-minimum-common-value](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
@@ -58,6 +59,7 @@
 | [0541-reverse-string-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
@@ -103,6 +105,7 @@
 | [1539-kth-missing-positive-number](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
+| [2540-minimum-common-value](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -198,6 +201,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2540-minimum-common-value](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2540-minimum-common-value) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 |  |
