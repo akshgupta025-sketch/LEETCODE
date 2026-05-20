@@ -14,24 +14,25 @@ public:
         if(head==NULL||head->next==NULL){
             return head;
         }
-        vector<int>arr;
+        // OPTIMAL APPROACH
+        // MAKE CIRCULAR LL
+        // NEW TAIL = LENGTH-(K%L)
+        // NODE NEXT = HEAD
+        int len = 1;
         ListNode* temp = head;
-        while(temp){
-            arr.push_back(temp->val);
-            temp = temp->next;
+        while(temp->next){
+            len++;
+            temp=temp->next;
         }
-        int n = arr.size();
-        k=k%n;
-        reverse(arr.begin(),arr.end());
-        reverse(arr.begin(),arr.begin()+k);
-        reverse(arr.begin()+k,arr.end());
-        temp = head;
-        int i = 0;
-        while(temp){
-            temp->val = arr[i];
-            temp = temp->next;
-            i++;
-        }
-        return head;
+        temp->next = head;
+       len = (len-(k%(len)))-1;
+       temp = head;
+       while(len>0){
+        len--;
+        temp = temp->next;
+       }
+       ListNode* front = temp->next;
+       temp->next = NULL;
+       return front;
     }
 };
