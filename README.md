@@ -213,6 +213,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
@@ -269,5 +270,6 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
