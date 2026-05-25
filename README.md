@@ -31,6 +31,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
