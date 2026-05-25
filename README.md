@@ -24,6 +24,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -211,6 +212,7 @@
 | [0242-valid-anagram](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2540-minimum-common-value](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2540-minimum-common-value) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -222,6 +224,7 @@
 | [0155-min-stack](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -281,4 +284,8 @@
 | ------- |
 | [0155-min-stack](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
