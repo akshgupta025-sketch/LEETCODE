@@ -1,7 +1,6 @@
 class Solution:
     def minElement(self, nums: List[int]) -> int:
         n = len(nums)
-        arr=[]
         minu = 100
         for i in range(n):
             m = nums[i]
