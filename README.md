@@ -172,6 +172,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
 | ------- |
@@ -232,6 +233,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
 |  |
 | ------- |
@@ -362,4 +364,8 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0039-combination-sum) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
