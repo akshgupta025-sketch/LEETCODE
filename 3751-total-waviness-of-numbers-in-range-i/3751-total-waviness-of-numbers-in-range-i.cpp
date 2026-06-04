@@ -4,9 +4,7 @@ int func(string s){
     int weav = 0;
     int n = s.size();
     for(int i=1;i<n-1;i++){
-       if((s[i]>s[i-1])&&(s[i]>s[i+1])){
-        weav++;
-       }else if((s[i]<s[i-1])&&(s[i]<s[i+1])){
+       if(((s[i]>s[i-1])&&(s[i]>s[i+1]))||((s[i]<s[i-1])&&(s[i]<s[i+1]))){
         weav++;
        }
     }
