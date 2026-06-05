@@ -21,6 +21,7 @@
 | [0074-search-a-2d-matrix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -174,6 +175,7 @@
 | [0022-generate-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0410-split-array-largest-sum) |
@@ -245,6 +247,7 @@
 | [0048-rotate-image](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
@@ -275,6 +278,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0234-palindrome-linked-list) |
@@ -348,6 +352,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0503-next-greater-element-ii) |
