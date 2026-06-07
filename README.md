@@ -232,6 +232,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0070-climbing-stairs) |
