@@ -180,6 +180,7 @@
 | [0070-climbing-stairs](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -192,6 +193,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0242-valid-anagram) |
@@ -386,6 +388,7 @@
 | [0039-combination-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0216-combination-sum-iii) |
 ## Enumeration
 |  |
