@@ -391,6 +391,7 @@
 | [0039-combination-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0216-combination-sum-iii) |
