@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0042-trapping-rain-water) |
@@ -257,6 +258,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -271,6 +273,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0141-linked-list-cycle) |
@@ -394,6 +397,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0051-n-queens) |
