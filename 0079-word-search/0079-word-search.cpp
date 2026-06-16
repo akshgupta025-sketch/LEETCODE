@@ -11,6 +11,7 @@ bool recur(vector<vector<char>>& board,string word,int i,int j,int k){
     int y[4] = {1,0,-1,0};
     for(int idx = 0;idx<4;idx++){
      temp = temp||recur(board,word,i+x[idx],j+y[idx],k+1);
+     if(temp==true)break;
     }
     board[i][j]=word[k];
     return temp;
