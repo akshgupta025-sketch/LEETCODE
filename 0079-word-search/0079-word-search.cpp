@@ -5,7 +5,6 @@ bool recur(vector<vector<char>>& board,string word,int i,int j,int k){
     int n = board.size();
     int m = board[0].size();
     if(i<0||i>=n||j<0||j>=m||board[i][j]=='.'||board[i][j]!=word[k])return false;
-    if(word.size()==1 && board[i][j]==word[k])return true;
     bool temp = false;
     board[i][j]='.';
     int x[4] = {0,1,0,-1};
