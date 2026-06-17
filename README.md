@@ -221,6 +221,7 @@
 | [3110-score-of-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3614-process-string-with-special-operations-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3838-weighted-word-mapping) |
@@ -357,6 +358,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
+| [3614-process-string-with-special-operations-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Recursion
