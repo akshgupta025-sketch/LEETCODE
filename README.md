@@ -54,6 +54,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1732-find-the-highest-altitude](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1901-find-a-peak-element-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -112,6 +113,7 @@
 | [0242-valid-anagram](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
+| [1833-maximum-ice-cream-bars](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -237,6 +239,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [1833-maximum-ice-cream-bars](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -420,4 +423,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0079-word-search) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
