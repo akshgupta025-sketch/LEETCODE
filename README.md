@@ -314,6 +314,7 @@
 | [0496-next-greater-element-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
@@ -381,6 +382,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -389,6 +391,7 @@
 | [0402-remove-k-digits](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0901-online-stock-span) |
 | [2104-sum-of-subarray-ranges](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 ## Bit Manipulation
 |  |
@@ -430,4 +433,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
