@@ -223,6 +223,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
@@ -305,6 +306,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2540-minimum-common-value](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2540-minimum-common-value) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -419,6 +421,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
 |  |
 | ------- |
