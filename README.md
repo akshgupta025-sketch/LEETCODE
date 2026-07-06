@@ -49,6 +49,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1288-remove-covered-intervals](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -119,6 +120,7 @@
 | [0242-valid-anagram](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0455-assign-cookies) |
+| [1288-remove-covered-intervals](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
