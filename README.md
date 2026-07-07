@@ -331,6 +331,7 @@
 | [0020-valid-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0145-binary-tree-postorder-traversal](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0234-palindrome-linked-list) |
@@ -456,6 +457,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0079-word-search) |
+| [0145-binary-tree-postorder-traversal](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 ## Counting Sort
 |  |
 | ------- |
@@ -464,4 +466,12 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0901-online-stock-span) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
