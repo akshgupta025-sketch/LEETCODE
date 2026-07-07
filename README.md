@@ -283,6 +283,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Matrix
 |  |
 | ------- |
