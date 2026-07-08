@@ -136,6 +136,7 @@
 | [1732-find-the-highest-altitude](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -241,6 +242,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3838-weighted-word-mapping) |
@@ -284,6 +286,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
 | ------- |
