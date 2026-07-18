@@ -67,6 +67,7 @@
 | [2126-destroying-asteroids](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2540-minimum-common-value](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
@@ -272,6 +273,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
@@ -356,6 +358,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Trie
 |  |
 | ------- |
