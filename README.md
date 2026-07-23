@@ -75,6 +75,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -293,6 +294,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -439,6 +441,7 @@
 | [0090-subsets-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Memoization
 |  |
 | ------- |
