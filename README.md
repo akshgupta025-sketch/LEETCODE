@@ -133,6 +133,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Prefix Sum
@@ -247,6 +248,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2833-furthest-point-from-origin](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3110-score-of-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -264,6 +266,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
@@ -278,6 +281,7 @@
 | [2126-destroying-asteroids](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
@@ -338,6 +342,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2540-minimum-common-value](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2540-minimum-common-value) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
