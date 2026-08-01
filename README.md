@@ -39,6 +39,7 @@
 | [0287-find-the-duplicate-number](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0503-next-greater-element-ii) |
@@ -216,6 +217,7 @@
 | [0131-palindrome-partitioning](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0486-predict-the-winner) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
@@ -293,6 +295,7 @@
 | [0048-rotate-image](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0486-predict-the-winner) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
@@ -429,6 +432,7 @@
 | [0206-reverse-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1922-count-good-numbers) |
 ## Design
 |  |
@@ -539,4 +543,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
