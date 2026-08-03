@@ -184,6 +184,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -458,6 +459,7 @@
 | [0078-subsets](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
