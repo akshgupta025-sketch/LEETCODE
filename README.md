@@ -509,6 +509,7 @@
 | [0110-balanced-binary-tree](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Counting Sort
 |  |
 | ------- |
@@ -525,6 +526,7 @@
 | [0110-balanced-binary-tree](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -533,6 +535,7 @@
 | [0110-balanced-binary-tree](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -558,4 +561,8 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0486-predict-the-winner) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3222-find-the-winning-player-in-coin-game) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
