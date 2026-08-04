@@ -84,6 +84,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
@@ -137,6 +138,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -353,6 +355,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
