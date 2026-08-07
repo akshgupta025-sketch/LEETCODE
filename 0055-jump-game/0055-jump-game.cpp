@@ -4,8 +4,8 @@ public:
         int n=nums.size();
         int i = 0;
         if(n==1)return true;
-        while(i<n-1){
-            int j = i+1;
+        while(i<n){
+            int j = i;
             int jump = nums[i]+i;;
           int next = i;
           int maxu = -1;
