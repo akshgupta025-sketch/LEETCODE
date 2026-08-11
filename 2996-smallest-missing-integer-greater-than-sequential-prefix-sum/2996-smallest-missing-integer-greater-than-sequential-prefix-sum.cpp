@@ -12,21 +12,13 @@ public:
                     break;
                 }
             }
-            int ans = sum;
-            while(1){
-                bool x = true;
-                for(int i=0;i<n;i++){
-                    if(nums[i]==sum){
-                        x = false;
-                        break;
-                    }
-                }
-                if(x){
-                   ans = sum;
-                   break;
-                }
-             sum++;
+            vector<bool>mp(2500,false);
+            for(int num:nums){
+               mp[num]=true;
             }
-            return ans;
+            while(mp[sum]){
+                sum++;
+            }
+            return sum;
         }
 };
