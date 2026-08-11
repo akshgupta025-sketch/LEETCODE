@@ -75,6 +75,7 @@
 | [2540-minimum-common-value](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -136,6 +137,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -353,6 +355,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2540-minimum-common-value](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2540-minimum-common-value) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
