@@ -87,6 +87,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3838-weighted-word-mapping) |
@@ -479,6 +480,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Memoization
 |  |
 | ------- |
