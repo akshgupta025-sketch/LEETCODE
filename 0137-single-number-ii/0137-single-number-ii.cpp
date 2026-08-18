@@ -2,23 +2,34 @@ class Solution {
 public:
 using ll = long long;
     int singleNumber(vector<int>& nums) {
-     sort(nums.begin(),nums.end());
-     int r = 0;
-     int c = 2;
-     int cnt = 1;
-     int x = (nums.size())/3;
-     while(cnt<=x){
-        if(nums[r]==nums[r+1] && nums[r]!=nums[c]){
-            return nums[c];
-            break;
-        }else if(nums[r+1]==nums[c] && nums[c]!=nums[r]){
-            return nums[r];
-            break;
+    //  sort(nums.begin(),nums.end());
+    //  int r = 0;
+    //  int c = 2;
+    //  int cnt = 1;
+    //  int x = (nums.size())/3;
+    //  while(cnt<=x){
+    //     if(nums[r]==nums[r+1] && nums[r]!=nums[c]){
+    //         return nums[c];
+    //         break;
+    //     }else if(nums[r+1]==nums[c] && nums[c]!=nums[r]){
+    //         return nums[r];
+    //         break;
+    //     }
+    //     r+=3;
+    //     c+=3;
+    //     cnt++;
+    //  }
+    //  return nums[nums.size()-1];
+    int ans = 0;
+    for(int bits=0;bits<32;bits++){
+        ll sum = 0;
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]&(1<<bits))sum++;
         }
-        r+=3;
-        c+=3;
-        cnt++;
-     }
-     return nums[nums.size()-1];
+        if(sum%3==1){
+            ans|=(1<<bits);
+        }
+    }
+    return ans;
     }
 };
