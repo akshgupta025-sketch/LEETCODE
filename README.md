@@ -57,6 +57,7 @@
 | [1288-remove-covered-intervals](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1539-kth-missing-positive-number) |
@@ -292,6 +293,7 @@
 | [0410-split-array-largest-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0860-lemonade-change) |
+| [1386-cinema-seat-allocation](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2126-destroying-asteroids) |
@@ -360,6 +362,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2540-minimum-common-value](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -483,6 +486,7 @@
 | [0190-reverse-bits](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [1386-cinema-seat-allocation](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
