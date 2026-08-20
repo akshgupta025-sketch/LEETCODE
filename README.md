@@ -80,6 +80,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -447,6 +448,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3614-process-string-with-special-operations-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3838-weighted-word-mapping) |
