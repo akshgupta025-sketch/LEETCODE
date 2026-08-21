@@ -232,6 +232,7 @@
 | [0152-maximum-product-subarray](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
@@ -253,6 +254,7 @@
 | [0402-remove-k-digits](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0541-reverse-string-ii) |
+| [0678-valid-parenthesis-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
@@ -293,6 +295,7 @@
 | [0402-remove-k-digits](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
@@ -394,6 +397,7 @@
 | [0402-remove-k-digits](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
@@ -605,4 +609,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
