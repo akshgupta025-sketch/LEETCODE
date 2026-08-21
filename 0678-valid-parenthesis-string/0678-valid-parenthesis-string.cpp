@@ -1,0 +1,23 @@
+class Solution {
+public:
+    bool checkValidString(string s) {
+      int n = s.size();
+      int minopen = 0;
+      int maxopen = 0;
+      for(char ch:s){
+        if(ch=='('){
+            minopen++;
+            maxopen++;
+      }else if(ch==')'){
+        minopen--;
+        maxopen--;
+      }else{
+        minopen--; //condition h dekho agar ( min-- ) max++//
+        maxopen++;
+      }
+      if(maxopen<0)return false;
+          minopen = max(minopen,0);
+    }
+    return minopen==0;
+    }
+};
