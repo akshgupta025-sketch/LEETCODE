@@ -70,6 +70,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -307,6 +308,7 @@
 | [1386-cinema-seat-allocation](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
