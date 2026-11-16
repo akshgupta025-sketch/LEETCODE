@@ -278,6 +278,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -476,6 +477,7 @@
 | [0735-asteroid-collision](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1914-cyclically-rotating-a-grid](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/akshgupta025-sketch/LEETCODE/tree/master/3222-find-the-winning-player-in-coin-game) |
